@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties version="1.0">
+	<comment>English (en_US) Localization File</comment>
+	<entry key="itemGroup.wiab">World In A Block</entry>
+	<entry key="item.thunderWand.name">Thunder Wand</entry>
+	<entry key="item.soullessCrystal.name">Soulless Crystal</entry>
+	<entry key="item.soulCrystal.name">Soul Crystal</entry>
+	<entry key="item.poweredSoulCrystal.name">Powered Soul Crystal</entry>
+	<entry key="item.radiantSoulCrystal.name">Radiant SoulCrystal</entry>
+</properties>
